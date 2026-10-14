@@ -1,0 +1,23 @@
+# R
+.RData
+.Rhistory
+.Rproj.user/
+
+# Material do curso
+*.docx
+~$*
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
